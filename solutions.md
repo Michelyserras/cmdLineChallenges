@@ -19,6 +19,8 @@ ao ser executado, esse comando extrai o arquivo no diretório. Em seguida utiliz
 
 **5** - Para criar as subpastas do diretório foo, utilizei os comandos "mkdir -p foo/bar/1/2/3", esse comando cria todas as pastas de uma vez sem a necessidade de repeti-lo várias vezes.
 
+---
+**6** - Para remover o diretório "foo" e todo seu conteúdo, utilizei o comando "rm -r foo", o prefixo -r significa recursive ou recursivo, esse prefixo é utilizado para que ele possa entrar dentro do diretório e apagar todo o seu conteúdo um por um, pois o "rm" sozinho não iria conseguir faze-lo
 
 
 

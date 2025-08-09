@@ -15,7 +15,9 @@ ao ser executado, esse comando extrai o arquivo no diretório. Em seguida utiliz
 
 **4** - Para criar um novo diretório, utilizei o comando "mkdir foo".
 
+---
 
+**5** - Para criar as subpastas do diretório foo, utilizei os comandos "mkdir -p foo/bar/1/2/3", esse comando cria todas as pastas de uma vez sem a necessidade de repeti-lo várias vezes
 
 
 

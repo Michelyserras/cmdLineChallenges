@@ -9,7 +9,7 @@ ao ser executado, esse comando extrai o arquivo no diretório. Em seguida utiliz
 
 ---
 
-**3** - Para listar os arquivos do diretório "challenges", foi utilizado o comando "ls"
+**3** - Para listar os arquivos do diretório "challenges", foi utilizado o comando "ls".
 
 
 

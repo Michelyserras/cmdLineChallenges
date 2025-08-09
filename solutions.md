@@ -5,7 +5,12 @@ ao ser executado, esse comando extrai o arquivo no diretório. Em seguida utiliz
 
 ---
 
-**2**  - Para mudar para o diretório "challenges", foi utilizado o comando "cd challenges"
+**2**  - Para mudar para o diretório "challenges", foi utilizado o comando "cd challenges".
+
+---
+
+**3** - Para listar os arquivos do diretório "challenges", foi utilizado o comando "ls"
+
 
 
 

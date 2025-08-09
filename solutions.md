@@ -13,7 +13,7 @@ ao ser executado, esse comando extrai o arquivo no diretório. Em seguida utiliz
 
 ---
 
-**4** - Para criar um novo diretório, utilizei o comando "mkdir foo"
+**4** - Para criar um novo diretório, utilizei o comando "mkdir foo".
 
 
 

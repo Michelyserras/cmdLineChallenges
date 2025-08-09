@@ -11,7 +11,9 @@ ao ser executado, esse comando extrai o arquivo no diretório. Em seguida utiliz
 
 **3** - Para listar os arquivos do diretório "challenges", foi utilizado o comando "ls".
 
+---
 
+**4** - Para criar um novo diretório, utilizei o comando "mkdir foo"
 
 
 
